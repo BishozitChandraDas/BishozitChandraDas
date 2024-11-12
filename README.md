@@ -69,10 +69,10 @@ Feel free to reach out for collaborations, tech discussions, or just to connect!
 ---
 📈 GitHub Stats & Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BishozitChandraDas&show_icons=true&theme=radical&custom_title=Bishozit%20Chandra%20Das's%20GitHub%20Stats" 
-       alt="Bishozit Chandra Das's GitHub Stats" width="49%" align="top" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishozitChandraDas&layout=compact&theme=radical" 
        alt="Bishozit Chandra Das's Most Used Languages" width="49%" align="top" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=BishozitChandraDas&show_icons=true&theme=radical&custom_title=Bishozit%20Chandra%20Das's%20GitHub%20Stats" 
+       alt="Bishozit Chandra Das's GitHub Stats" width="49%" align="top" /> 
 </p>
 
 ---
