@@ -68,7 +68,7 @@ Feel free to reach out for collaborations, tech discussions, or just to connect!
 
 ---
 📈 GitHub Stats & Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BishozitChandraDas&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishozitChandraDas&layout=compact&theme=radical" alt="Most Used Languages" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BishozitChandraDas&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" align="top" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishozitChandraDas&layout=compact&theme=radical" alt="Most Used Languages" width="49%" align="top" /> </p>
 ---
 
 Thanks for visiting my GitHub profile! 😊 If you have any collaboration ideas, feel free to reach out. Let's make something amazing together!
