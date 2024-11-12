@@ -71,7 +71,7 @@ Feel free to reach out for collaborations, tech discussions, or just to connect!
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishozit&show_icons=true&theme=radical" alt="Bishozit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BishozitChandraDas&show_icons=true&theme=radical" alt="BishozitChandraDas's GitHub Stats" />
 </p>
 
 ---
