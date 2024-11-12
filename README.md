@@ -1,4 +1,4 @@
-# Hi there! 👋  I'm Bishozit Chandra Das
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast | Passionate Researcher
 
