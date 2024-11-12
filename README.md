@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bishozit Chandra Das
+# Hi there! 👋  I'm Bishozit Chandra Das
 
 ### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast | Passionate Researcher
 
