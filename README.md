@@ -8,7 +8,7 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🛠️ Technologies I Work With 
 
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
