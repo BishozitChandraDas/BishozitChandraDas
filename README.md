@@ -60,9 +60,12 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
 ### 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishozit-chandra-das/)
-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bishozit-Chandra-Das)
+- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=pCt9gQIAAAAJ&hl=en)
+- - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bishozit-Chandra-Das)
+- [![SciProfiles](https://img.shields.io/badge/SciProfiles-%23FF6600.svg?style=for-the-badge&logo=science&logoColor=white)](https://sciprofiles.com/profile/BishozitChandraDas)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bishozitchandradas)
 - [![Email](https://img.shields.io/badge/Email-bishozitdas191@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishozitdas191@gmail.com)
+
 
 Feel free to reach out for collaborations, tech discussions, or just to connect! Happy coding! 🚀
 
