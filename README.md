@@ -4,7 +4,7 @@
 
 I'm a passionate **Mobile Application Developer** with a Bachelor's degree in Computer Science and Engineering. I specialize in **mobile application development** and am driven by a deep interest in building efficient, user-friendly, and impactful applications. Currently, I work as a Mobile App Developer, utilizing my skills to create solutions that enhance user experience and meet business goals. 
 
-Beyond work, I’m dedicated to sharing my technical knowledge with others, motivating them to embrace technology, and contributing to the tech community. In my free time, I enjoy watching podcasts, movies, and catching up on sports.  
+Beyond work, I’m dedicated to sharing my technical knowledge with others, motivating them to embrace technology, and contributing to the tech community. In my free time, I enjoy watching podcasts, movies, and catching up on sports.   
 
 ---
 
